@@ -1,5 +1,5 @@
 # Password Generator
-Generates passwords using keywords provided by the user.
+Generates a password list using keywords provided by the user.
 
 ### Features:
   - Splitting, reversing and casing keywords
